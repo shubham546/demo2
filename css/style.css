@@ -1,0 +1,54 @@
+.headerimage{
+  width: 100%;
+  margin-bottom: 50px;
+}
+
+.row{
+text-align: center;
+margin: auto;
+}
+
+.imo1{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+h1{
+  font-family: Montserrat-black;
+  color: white;
+}
+.pic{
+  width: 60%;
+  margin-bottom: 20px;
+}
+.founders{
+  width: 100%;
+  height: 50px;
+  background-color:black;
+  margin-bottom: 36px;
+}
+.row{
+  margin-bottom: 35px;
+}
+.teammembers{
+  width: 80%;
+  height: 500px;
+  margin: 100px auto 100px auto;
+}
+.person{
+  margin-bottom: 10px;
+}
+h3{
+  margin-bottom: 40px;
+}
+.input{
+  width: 88%;
+}
+.reset{
+  margin-right: 20px;
+}
+.contactus{
+margin-left: 84px;
+margin-bottom: 60px;
+}
